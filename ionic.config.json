@@ -1,5 +1,7 @@
 {
   "name": "ionic_v5_test_tuten",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
